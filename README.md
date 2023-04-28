@@ -1,4 +1,4 @@
-_![](https://github.com/lung-andreea/lung-andreea/blob/master/assets/cover.png)
+![linkedin_cover_5](https://user-images.githubusercontent.com/37515089/235195830-dcbd1309-b0bb-4669-adb2-f26af8ef3228.png)
 
 ### 👋 Hi, I'm Andreea
 
