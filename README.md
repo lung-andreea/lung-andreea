@@ -1,4 +1,14 @@
-![linkedin_cover_5](https://user-images.githubusercontent.com/37515089/235195830-dcbd1309-b0bb-4669-adb2-f26af8ef3228.png)
+![Cover image](https://raw.githubusercontent.com/lung-andreea/lung-andreea/main/assets/cover.png)
+
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+
 
 ### 👋 Hi, I'm Andreea
 
@@ -13,7 +23,7 @@ I am a frontend developer with **5+ years of experience** working on customer-fa
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I've always used a Pikatchu profile pic at all the places I've worked, but I've never watched the whole Pokemon series
 
-## What I do best
+### 🏅 What I do best
 
 - 🚀️ Delivering features quickly at a high quality standard
 - 🛠️ Solving problems for stakeholders
